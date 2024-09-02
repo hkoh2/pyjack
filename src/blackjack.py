@@ -1,7 +1,7 @@
 # from lib.card import Card
-from lib.table import Table
-from lib.player import Player
-from lib.dealer import Dealer
+from utils.table import Table
+from utils.player import Player
+from utils.dealer import Dealer
 
 new_dealer = Player("Dealer")
 player_1 = Player("John")
